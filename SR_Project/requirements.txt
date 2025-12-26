@@ -1,6 +1,5 @@
 torch
-torchvision
+numpy<2
 opencv-python
-numpy
 matplotlib
 scikit-image
