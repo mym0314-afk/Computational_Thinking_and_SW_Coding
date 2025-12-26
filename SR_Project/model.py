@@ -1,6 +1,7 @@
 import torch
 import torch.nn as nn
 
+#SRCNN 참고
 class SRCNN(nn.Module):
     def __init__(self):
         super().__init__()
